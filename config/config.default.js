@@ -92,7 +92,7 @@ module.exports = () => {
     };
 
     // 百度地图api key
-    config.BAIDUAK = '这里替换为你的百度KEY';
+    config.BAIDUAK = '91XLBaUcqugbPElkZ94Wgr2ihiCG8hNn';
 
     // 分页条数
     config.pageSize = 50;
